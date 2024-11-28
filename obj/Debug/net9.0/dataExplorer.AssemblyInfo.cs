@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dataExplorer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f129664a3c7af73da8af440fc0ed8c304341e696")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79ffccfdf8d054205d37c5312fabd3c9dbf68ac3")]
 [assembly: System.Reflection.AssemblyProductAttribute("dataExplorer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dataExplorer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
